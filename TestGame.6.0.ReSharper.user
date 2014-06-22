@@ -1,0 +1,499 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D24FF5A3-4FDA-47EE-BB02-3E602E5F43A7/f:MenuFontBig.spritefont" caret="675" fromTop="19" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputController.cs" caret="96" fromTop="4" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:Program.cs" caret="331" fromTop="14" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:QuestionMessage.cs" caret="396" fromTop="14" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:Player.cs" caret="100" fromTop="6" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:RandomCardManager.cs" caret="0" fromTop="0" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputControllerManager.cs" caret="0" fromTop="0" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputMenuController.cs" caret="2112" fromTop="26" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputGameController.cs" caret="1200" fromTop="13" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:CardsCollection.cs" caret="425" fromTop="12" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:TestGame.cs" caret="60" fromTop="1" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:Card.cs" caret="336" fromTop="0" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputGameEndController.cs" caret="352" fromTop="10" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputGamePopupController.cs" caret="473" fromTop="1" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="7237" fromTop="37" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="5068" fromTop="18" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:CardsCollection.cs" caret="424" fromTop="12" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:CardsCollection.cs" caret="656" fromTop="16" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:TestGame.cs" caret="2451" fromTop="35" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="862" fromTop="17" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="6576" fromTop="29" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:TestGame.cs" caret="2222" fromTop="17" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="991" fromTop="13" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="6760" fromTop="35" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="6068" fromTop="42" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:Card.cs" caret="3468" fromTop="30" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:Card.cs" caret="1159" fromTop="33" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:Card.cs" caret="1159" fromTop="27" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:Card.cs" caret="1534" fromTop="34" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:Card.cs" caret="1766" fromTop="40" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="6014" fromTop="20" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="6207" fromTop="28" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:CardsCollection.cs" caret="1613" fromTop="33" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="5229" fromTop="22" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="5068" fromTop="17" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="6760" fromTop="40" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:TestGame.cs" caret="60" fromTop="1" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputGameEndController.cs" caret="352" fromTop="10" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputGamePopupController.cs" caret="2121" fromTop="28" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputGamePopupController.cs" caret="4997" fromTop="31" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputGamePopupController.cs" caret="3341" fromTop="27" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputGamePopupController.cs" caret="3152" fromTop="21" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputGamePopupController.cs" caret="1879" fromTop="31" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/d:InputControllers/f:InputGamePopupController.cs" caret="473" fromTop="7" />
+      <File id="4395808C-2ADE-4ACD-B243-D59A69BBFC78/f:GameState.cs" caret="7237" fromTop="37" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="1471" />
+      <Item value="static" priority="159" />
+      <Item value="void" priority="895" />
+      <Item value="private" priority="1631" />
+      <Item value="KeyboardController`0" priority="159" />
+      <Item value="if" priority="959" />
+      <Item value="instance" priority="160" />
+      <Item value="new" priority="671" />
+      <Item value="KeyboardController" priority="28" />
+      <Item value="return" priority="1183" />
+      <Item value="Game1`0" priority="95" />
+      <Item value="this" priority="159" />
+      <Item value="testGameInstance" priority="63" />
+      <Item value="_fontBig" priority="122" />
+      <Item value="value" priority="191" />
+      <Item value="GameState`0" priority="255" />
+      <Item value="null" priority="287" />
+      <Item value="GameState" priority="28" />
+      <Item value="readonly" priority="127" />
+      <Item value="drawGame`0" priority="31" />
+      <Item value="int" priority="2079" />
+      <Item value="Console`0" priority="287" />
+      <Item value="faceImage" priority="31" />
+      <Item value="topLeftCorner" priority="31" />
+      <Item value="false" priority="159" />
+      <Item value="_testGameInstance" priority="26" />
+      <Item value="Card`0" priority="223" />
+      <Item value="_gameState" priority="1046" />
+      <Item value="GameTime`0" priority="31" />
+      <Item value="_gameTime" priority="95" />
+      <Item value="Game`0" priority="31" />
+      <Item value="gameTime" priority="159" />
+      <Item value="_inputController" priority="31" />
+      <Item value="_closeCardsWaitTime" priority="31" />
+      <Item value="COVER" priority="33" />
+      <Item value="CloseCards`0" priority="31" />
+      <Item value="_lastCardOpenTimeInSec" priority="31" />
+      <Item value="string" priority="634" />
+      <Item value="Player`0" priority="127" />
+      <Item value="Color`0" priority="1023" />
+      <Item value="_name" priority="127" />
+      <Item value="name" priority="31" />
+      <Item value="_color" priority="351" />
+      <Item value="color" priority="319" />
+      <Item value="Player" priority="28" />
+      <Item value="x" priority="415" />
+      <Item value="_points" priority="63" />
+      <Item value="bool" priority="383" />
+      <Item value="_id" priority="127" />
+      <Item value="id" priority="258" />
+      <Item value="_pairCardId" priority="95" />
+      <Item value="Player1" priority="127" />
+      <Item value="points" priority="31" />
+      <Item value="break" priority="127" />
+      <Item value="true" priority="351" />
+      <Item value="endLoop" priority="31" />
+      <Item value="i" priority="672" />
+      <Item value="OpenCard1" priority="63" />
+      <Item value="OpenCard2" priority="63" />
+      <Item value="Disabled" priority="63" />
+      <Item value="ConsoleColor`0" priority="31" />
+      <Item value="_frame" priority="191" />
+      <Item value="frame" priority="31" />
+      <Item value="rect" priority="127" />
+      <Item value="Color" priority="28" />
+      <Item value="ID" priority="63" />
+      <Item value="_value" priority="95" />
+      <Item value="j" priority="543" />
+      <Item value="Content" priority="63" />
+      <Item value="contentFiles" priority="27" />
+      <Item value="List&lt;string&gt;" priority="28" />
+      <Item value="File`0" priority="31" />
+      <Item value="file" priority="31" />
+      <Item value="dir" priority="191" />
+      <Item value="for" priority="255" />
+      <Item value="DirectoryInfo`0" priority="63" />
+      <Item value="dirInfo" priority="95" />
+      <Item value="Length" priority="53" />
+      <Item value="dir1" priority="31" />
+      <Item value="CardsCollection`0" priority="95" />
+      <Item value="CardsCollection" priority="28" />
+      <Item value="cardsCollection" priority="31" />
+      <Item value="achievement" priority="31" />
+      <Item value="coverImage" priority="63" />
+      <Item value="graphics" priority="31" />
+      <Item value="_coverImage" priority="95" />
+      <Item value="_graphics" priority="63" />
+      <Item value="fileCounter" priority="31" />
+      <Item value="gameState" priority="287" />
+      <Item value="content" priority="31" />
+      <Item value="const" priority="223" />
+      <Item value="spriteBatch" priority="63" />
+      <Item value="SpriteFont`0" priority="31" />
+      <Item value="_smallMenuFont" priority="31" />
+      <Item value="CloseCard`0" priority="31" />
+      <Item value="_spriteBatch" priority="31" />
+      <Item value="else" priority="351" />
+      <Item value="GamePopup" priority="33" />
+      <Item value="_foundMatch" priority="31" />
+      <Item value="class" priority="30" />
+      <Item value="List" priority="31" />
+      <Item value="List&lt;RandomCardPlace&gt;" priority="28" />
+      <Item value="k" priority="63" />
+      <Item value="height" priority="63" />
+      <Item value="width" priority="95" />
+      <Item value="RandomCardPlace" priority="28" />
+      <Item value="I" priority="31" />
+      <Item value="J" priority="32" />
+      <Item value="_currentIndex" priority="63" />
+      <Item value="_randomCardPlaces" priority="63" />
+      <Item value="throw" priority="95" />
+      <Item value="Exception" priority="28" />
+      <Item value="RandomCardManager" priority="28" />
+      <Item value="foreach" priority="31" />
+      <Item value="in" priority="31" />
+      <Item value="Debug`0" priority="799" />
+      <Item value="card" priority="63" />
+      <Item value="fileInfo" priority="95" />
+      <Item value="counter" priority="159" />
+      <Item value="#region" priority="31" />
+      <Item value="#endregion" priority="31" />
+      <Item value="_inputControllerManager" priority="32" />
+      <Item value="enum" priority="63" />
+      <Item value="switch" priority="63" />
+      <Item value="InputController`0" priority="95" />
+      <Item value="case" priority="31" />
+      <Item value="default" priority="31" />
+      <Item value="MouseState`0" priority="31" />
+      <Item value="KeyboardState`0" priority="31" />
+      <Item value="newState" priority="31" />
+      <Item value="padding" priority="31" />
+      <Item value="Rectangle`0" priority="127" />
+      <Item value="createBox`0" priority="63" />
+      <Item value="var" priority="31" />
+      <Item value="y" priority="95" />
+      <Item value="batch" priority="63" />
+      <Item value="button" priority="95" />
+      <Item value="Vector2`0" priority="63" />
+      <Item value="text" priority="31" />
+      <Item value="textSize" priority="31" />
+      <Item value="buttonHeight" priority="31" />
+      <Item value="CardPairFound`0" priority="31" />
+      <Item value="FoundPairPoints" priority="31" />
+      <Item value="GetCurrentPlayerColor`0" priority="63" />
+      <Item value="BothCardsOpened`0" priority="63" />
+      <Item value="escSize" priority="31" />
+      <Item value="long" priority="95" />
+      <Item value="QuestionMessage" priority="60" />
+      <Item value="mainBox" priority="31" />
+      <Item value="textBody" priority="31" />
+      <Item value="Message" priority="127" />
+      <Item value="CorrectAnswerMessage" priority="31" />
+      <Item value="MessageColor" priority="31" />
+      <Item value="Reset`0" priority="31" />
+      <Item value="_startTimeMessageInSec" priority="63" />
+      <Item value="Stopwatch`0" priority="31" />
+      <Item value="Stopwatch" priority="28" />
+      <Item value="Player2" priority="95" />
+      <Item value="Cards" priority="476" />
+      <Item value="Start" priority="16" />
+      <Item value="title" priority="31" />
+      <Item value="message" priority="31" />
+      <Item value="_foundPairCards" priority="31" />
+      <Item value="_memoryMatrixSizeHeight" priority="31" />
+      <Item value="_memoryMatrixSizeWidth" priority="31" />
+      <Item value="EndGame" priority="16" />
+      <Item value="DrawGameEnd`0" priority="26" />
+      <Item value="_inputGameEndController" priority="32" />
+      <Item value="Menu" priority="16" />
+      <Item value="player" priority="31" />
+      <Item value="playerPointsSize" priority="31" />
+      <Item value="SpriteBatch`0" priority="31" />
+      <Item value="currentPlayerBox" priority="31" />
+      <Item value="_gameBackgroundColor" priority="31" />
+      <Item value="EntryWrittenEventArgs`0" priority="31" />
+      <Item value="Card" priority="173" />
+      <Item value="Array`0" priority="127" />
+      <Item value="copyCards" priority="95" />
+      <Item value="typeof" priority="31" />
+      <Item value="_faceImage" priority="95" />
+      <Item value="_currentAnimation" priority="31" />
+      <Item value="randomCardManager" priority="63" />
+      <Item value="cardTexture" priority="31" />
+      <Item value="_cardOffX" priority="31" />
+      <Item value="_topLeftCorner" priority="31" />
+      <Item value="offsetX" priority="31" />
+      <Item value="offsetY" priority="31" />
+      <Item value="copy" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.KeyboardController">
+      <Item value="testGameInstance" priority="26" />
+      <Item value="setTestGameInstance`0" priority="26" />
+      <Item value="ProcessInput`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestGame.KeyboardController">
+      <Item value="getInstance`0" priority="26" />
+      <Item value="GetInstance`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestGame.GameState">
+      <Item value="GetInstance`0" priority="80" />
+      <Item value="GameScreen`0" priority="26" />
+      <Item value="Instance" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.GameState">
+      <Item value="FontBig" priority="26" />
+      <Item value="CurrentGameScreen" priority="242" />
+      <Item value="OpenCard1" priority="134" />
+      <Item value="Cards" priority="107" />
+      <Item value="OpenCard2" priority="26" />
+      <Item value="Player1" priority="188" />
+      <Item value="AwardPlayerWithPoints`0" priority="26" />
+      <Item value="MemoryMatrixSizeHeight" priority="107" />
+      <Item value="MemoryMatrixSizeWidth" priority="76" />
+      <Item value="YesButton" priority="53" />
+      <Item value="PlayerOnlyFoundPair`0" priority="26" />
+      <Item value="PlayerAnsweredCorrectly`0" priority="26" />
+      <Item value="GetCurrentPlayerColor`0" priority="26" />
+      <Item value="QuestionMessage" priority="80" />
+      <Item value="ResetFromPopupToGame`0" priority="26" />
+      <Item value="Message" priority="45" />
+      <Item value="PlayerAnsweredIncorrectly`0" priority="27" />
+      <Item value="ResetGame`0" priority="53" />
+      <Item value="SelectedOption" priority="26" />
+      <Item value="HasCurrentPlayerMorePoints`0" priority="26" />
+      <Item value="GameHasEnded`0" priority="26" />
+      <Item value="Player2" priority="26" />
+      <Item value="AgainButton" priority="22" />
+      <Item value="EnoughButton" priority="22" />
+      <Item value="CloseCard`0" priority="26" />
+      <Item value="CardOffY" priority="53" />
+      <Item value="CardOffX" priority="26" />
+      <Item value="ScreenHeight" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write`0" priority="26" />
+      <Item value="WriteLine`0" priority="317" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.Game1">
+      <Item value="GraphicsDevice" priority="26" />
+      <Item value="Window" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.InputController">
+      <Item value="SetGameTime`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameTime">
+      <Item value="ElapsedGameTime" priority="49" />
+      <Item value="TotalGameTime" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameWindow">
+      <Item value="Title" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Seconds" priority="80" />
+      <Item value="TotalSeconds" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.Card">
+      <Item value="CurrentAnimation" priority="26" />
+      <Item value="Disabled" priority="107" />
+      <Item value="ID" priority="134" />
+      <Item value="PairCardID" priority="164" />
+      <Item value="DisableCard`0" priority="22" />
+      <Item value="Value" priority="108" />
+      <Item value="GetTopLeftY`0" priority="26" />
+      <Item value="Reset`0" priority="107" />
+      <Item value="Equals`0" priority="26" />
+      <Item value="Copy`0" priority="53" />
+      <Item value="Cover" priority="26" />
+      <Item value="Face" priority="26" />
+      <Item value="Frame" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
+      <Item value="Blue" priority="161" />
+      <Item value="White" priority="212" />
+      <Item value="Red" priority="107" />
+      <Item value="WhiteSmoke" priority="22" />
+      <Item value="Gray" priority="27" />
+      <Item value="Teal" priority="26" />
+      <Item value="Orange" priority="26" />
+      <Item value="Aquamarine" priority="54" />
+      <Item value="Black" priority="26" />
+      <Item value="DarkGreen" priority="26" />
+      <Item value="DarkRed" priority="22" />
+      <Item value="Purple" priority="49" />
+      <Item value="Yellow" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.Player">
+      <Item value="Name" priority="26" />
+      <Item value="Color" priority="134" />
+      <Item value="Points" priority="271" />
+      <Item value="CurrentMove" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector2">
+      <Item value="X" priority="161" />
+      <Item value="Y" priority="103" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Texture2D">
+      <Item value="Width" priority="108" />
+      <Item value="Height" priority="108" />
+      <Item value="GetData`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Color">
+      <Item value="PackedValue" priority="53" />
+      <Item value="A" priority="53" />
+      <Item value="B" priority="53" />
+      <Item value="G" priority="53" />
+      <Item value="R" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Content.ContentManager">
+      <Item value="RootDirectory" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="Exists" priority="26" />
+      <Item value="GetDirectories`0" priority="81" />
+      <Item value="Name" priority="107" />
+      <Item value="GetFiles`0" priority="54" />
+      <Item value="FullName" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.CardsCollection">
+      <Item value="loadGroups`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.TestGame">
+      <Item value="Content" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="Name" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Viewport">
+      <Item value="Width" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="971" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="26" />
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IOrderedEnumerable`1">
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.RandomCardManager">
+      <Item value="GetNext`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.RandomCardManager+RandomCardPlace">
+      <Item value="J" priority="163" />
+      <Item value="I" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestGame.InputControllerManager">
+      <Item value="Instance" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.InputGameController">
+      <Item value="ProcessInput`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Void">
+      <Item value="Equals`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Mouse">
+      <Item value="GetState`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Rectangle">
+      <Item value="X" priority="53" />
+      <Item value="Y" priority="107" />
+      <Item value="Contains`0" priority="53" />
+      <Item value="Height" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteBatch">
+      <Item value="Draw`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteFont">
+      <Item value="MeasureString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestGame.GameState+GameScreen">
+      <Item value="Game" priority="106" />
+      <Item value="EndGame" priority="78" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.QuestionMessage">
+      <Item value="Message" priority="107" />
+      <Item value="MessageColor" priority="22" />
+      <Item value="AnsweredIncorrectly`0" priority="26" />
+      <Item value="AnsweredCorrectly`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Millisecond" priority="53" />
+      <Item value="Ticks" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="55" />
+      <Item value="UtcNow" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Stopwatch">
+      <Item value="Elapsed" priority="26" />
+      <Item value="Stop`0" priority="26" />
+      <Item value="Start`0" priority="26" />
+      <Item value="Reset`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestGame.GameState+MenuOption">
+      <Item value="Start" priority="26" />
+      <Item value="Exit" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestGame.GameState+MenuOption">
+      <Item value="ToString`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestGame.InputControllers.InputGameEndController">
+      <Item value="Instance" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="27" />
+      <Item value="Sleep`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="Copy`0" priority="80" />
+      <Item value="CreateInstance`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Point">
+      <Item value="X" priority="53" />
+      <Item value="Y" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
